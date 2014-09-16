@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jeo</groupId>
+  <artifactId>jeo</artifactId>
+  <versioning>
+    <versions>
+      <version>0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140916111846</lastUpdated>
+  </versioning>
+</metadata>
