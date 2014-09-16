@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 18 15:18:54 CEST 2014
+proj4j-0.1.0.pom>cloudbees-nutiteq-release=
+proj4j-0.1.0-jeo.jar>=
+proj4j-0.1.0-jeo.jar>opengeo=
+proj4j-0.1.0.pom>opengeo=
+proj4j-0.1.0.jar>cloudbees-nutiteq-release=
