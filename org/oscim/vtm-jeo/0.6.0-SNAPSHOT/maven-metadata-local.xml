@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.oscim</groupId>
+  <artifactId>vtm-jeo</artifactId>
+  <version>0.6.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20141120000119</lastUpdated>
+  </versioning>
+</metadata>
