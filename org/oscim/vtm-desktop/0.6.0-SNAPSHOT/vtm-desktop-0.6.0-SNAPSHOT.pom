@@ -14,12 +14,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.oscim</groupId>
-      <artifactId>vtm-themes</artifactId>
-      <version>0.6.0-SNAPSHOT</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.badlogicgames.gdx</groupId>
       <artifactId>gdx-backend-jglfw</artifactId>
       <version>1.4.1</version>
@@ -34,6 +28,12 @@
     <dependency>
       <groupId>org.oscim</groupId>
       <artifactId>vtm-gdx</artifactId>
+      <version>0.6.0-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.oscim</groupId>
+      <artifactId>vtm-themes</artifactId>
       <version>0.6.0-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
